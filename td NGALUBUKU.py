@@ -13,7 +13,7 @@ def systeme_masse_ressort_amortisseur(x, t, m, b, k, F):
     return dxdt
 
 # Paramètres du système
-m = 15.0  # Masse en kg
+masse = 15.0  # Masse en kg
 frottement = 25.0  # Coefficient de frottement de l'amortisseur en Ns/m
 raideur = 6000.0  # Constante de raideur du ressort en N/m
 position_initiale = 0.05  # Position initiale en m
