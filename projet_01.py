@@ -1,10 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  5 15:17:11 2024
+# TSHIPAMBA UTABULUKE Joel
+# MAHAMAT KABUNDI MOUSSE
 
-@author: NZONGBO DUNGUSE
-        MBAYA MUTOKA
-"""
 import numpy as np
 import matplotlib.pyplot as plt 
 from scipy.integrate import odeint
